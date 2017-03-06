@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.demonstracao-card {
+        width: 423px;
+    }
+
+        .demonstracao-card > .mdl-card__title {
+            color: #fff;
+            height: 176px;
+            background: url("img/imgcard.gif") center / cover;
+        }
+
+        .demonstracao-card > .mdl-card__menu {
+            color: red;
+        }
